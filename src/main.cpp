@@ -34,7 +34,6 @@ int main(){
             beetles.push_back(bn::sprite_items::bug.create_sprite());
         }
 
-
         rng.update();
         bn::core::update();
     }
